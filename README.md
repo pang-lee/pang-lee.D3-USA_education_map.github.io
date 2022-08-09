@@ -1,4 +1,4 @@
-# Self-driving-car
+# USA-Edutcation-Graph building by D3.js
 
 This's a project that fellow the JavaScript tutorial from:  
 https://www.youtube.com/watch?v=ha1toFtBfF8  
